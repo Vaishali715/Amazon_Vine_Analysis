@@ -8,6 +8,8 @@ In this project I have picked a data set from amazon reviews regarding Watches a
 ### How many Vine reviews and non-Vine reviews were there?
 * There were a total of of 47 vine reviews in our dataset, and 8362 non-vine reviews in the complete dataset.
 
+![Image](https://github.com/Vaishali715/Amazon_Vine_Analysis/blob/main/counts.png)
+
 ### How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
 * In the data set there was a total of 4347 5-star reviews
 * 8362 of the 5-star reviews were non-vine
